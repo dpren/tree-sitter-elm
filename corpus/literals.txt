@@ -1,0 +1,25 @@
+=========================================
+Integer Literals
+=========================================
+
+0
+1
+
+---
+
+(program
+  (statement (integer_literal))
+  (statement (integer_literal)))
+
+=========================================
+Float Literals
+=========================================
+
+0.00
+0.99
+
+---
+
+(program
+  (statement (float_literal))
+  (statement (float_literal)))
